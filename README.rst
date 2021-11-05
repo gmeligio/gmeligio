@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gmeligio
+- 👀 I’m interested in DevOps and Cloud Computing.
+- 💞️ I’m looking to collaborate on Infrastructure as Code and Python automation.
